@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://link-da-imagem.com" group-title="Canais Abertos",Globo
+https://link-do-stream.com
+#EXTINF:-1 tvg-logo="https://link-da-imagem.com" group-title="Filmes",HBO
+https://link-do-stream.com
